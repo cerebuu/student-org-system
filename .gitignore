@@ -1,0 +1,12 @@
+# NetBeans build artifacts
+build/
+dist/
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Compiled class files
+*.class
+
+# OS files
+.DS_Store
